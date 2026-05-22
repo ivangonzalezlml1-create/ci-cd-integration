@@ -25,7 +25,7 @@ public class CreateUserTest {
         User user = new User();
         user.setUsername(RandomUtils.getRandomAlphabeticString());
         user.setFirstName("Ivan");
-        user.setLastName("Gonzalez");
+        user.setLastName("Gonzalez Hernandez");
         user.setEmail(RandomUtils.getRandomAlphabeticString());
         user.setPassword(RandomUtils.getRandomAlphabeticString());
         user.setPhone(RandomUtils.getRandomAlphabeticString());
